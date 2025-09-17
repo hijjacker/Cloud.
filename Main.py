@@ -96,7 +96,7 @@ with tab_explanation:
 
     # Images
     with col1:
-        st.image("ncar.jpg", "National Center for Atmospheric Research in Boulder, CO")
+        st.image("NCAR.jpg", "National Center for Atmospheric Research in Boulder, CO")
     
     with col2:
         st.image("Boring.jpg", "BORING!")
