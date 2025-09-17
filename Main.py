@@ -139,7 +139,7 @@ with tab_gallery:
         st.image("Kilimanjaro_Clouds.jpg", "Low-lying Stratus in Early Morning\n\n Location: Mt. Kilimanjaro, TZ")
         st.image("GreenPeak_Clouds.JPG", "Building Cumulus in Late Afternoon\n\n Location: Boulder, CO")
         st.image("ShastaCirrus_Clouds.JPG", "Fast-Moving Cirrus Clouds near 14,000 feet\n\n Location: Mt. Shasta, CA")
-        st.image("Turret_Clouds.JPG", "Large Cirrus Castellanus Cloud\n\n Location: Monterey Bay, CA")
+        st.image("Turret_Clouds.jpg", "Large Cirrus Castellanus Cloud\n\n Location: Monterey Bay, CA")
         st.image("Longs_Peak_Clouds.jpg", "Altocumulus Clouds at Sunrise\n\n Location: Longs Peak, CO")
         st.image("Third_Flatiron.JPG", "Cumulus Mediocris at Sunset\n\n Location: Boulder, CO")
         st.image("ShastaMisery.jpg", "Cirrus Uncinus Clouds\n\n Location: Mt. Shasta, CA")
