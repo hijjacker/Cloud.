@@ -331,7 +331,7 @@ with tab_steinbeck:
         unsafe_allow_html=True
     )
     st.write("Clouds had a noticeable impact on many of Steinbeck's writings. For his novels about agriculture, they were a double-edged sword. They served as both a source of abundance, bringing rain to thirsty crops, and a source of destruction, flooding towns or not raining at all. Below are some quotes from Steinbeck's novels that encapsulate the influence clouds had on his work.")    
-    st.image("Steinbeck_image.jpg", "John Steinbeck")
+    st.image("Steinbeck_Image.jpg", "John Steinbeck")
 
     col1,col2 = st.columns(2)
 
