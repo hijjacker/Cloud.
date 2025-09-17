@@ -142,7 +142,7 @@ with tab_gallery:
         st.image("Turret_Clouds.jpg", "Large Cirrus Castellanus Cloud\n\n Location: Monterey Bay, CA")
         st.image("Longs_Peak_Clouds.jpg", "Altocumulus Clouds at Sunrise\n\n Location: Longs Peak, CO")
         st.image("Third_Flatiron.JPG", "Cumulus Mediocris at Sunset\n\n Location: Boulder, CO")
-        st.image("ShastaMisery.jpg", "Cirrus Uncinus Clouds\n\n Location: Mt. Shasta, CA")
+        st.image("ShastaMisery.JPG", "Cirrus Uncinus Clouds\n\n Location: Mt. Shasta, CA")
 
 
     with col3:
